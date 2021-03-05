@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/view/details",
+    "pages/search/search"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "11室工会",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F1F1F1"
+  },
+  "usingComponents": {}
+}

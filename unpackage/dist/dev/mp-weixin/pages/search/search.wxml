@@ -1,0 +1,1 @@
+<view class="searchBox"><view class="topBox"><input class="inputbox" type="text" focus="true" value="{{searchValue}}"/><view data-event-opts="{{[['tap',[['goBack',['$event']]]]]}}" bindtap="__e">取消</view></view></view>
